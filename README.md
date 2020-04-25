@@ -5,3 +5,6 @@ This app classifies the images of Donald Trump, MS Dhoni and Robert Downey Jr.  
 The training data is scrapped from google images.  The data is trained on pretrained resnet18 model to leverage the advantage of transfer learning.
 
 The webapp is build using starlette python package
+
+
+For training information, https://github.com/War-Eagl/ds-notebooks/blob/master/FaceDetector.ipynb
